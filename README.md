@@ -18,7 +18,7 @@ In this project, I will cover the following topics:
 #### Get all products
 
 ```http
-  GET/overview or GET /
+  GET/overview 
 ```
 
 | Parameter | Type     | Description                |

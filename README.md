@@ -36,3 +36,7 @@ In this project, I will cover the following topics:
 | `Slugify-name-product`      | `string` | **Required**. Slugify of name's product to fetch    |
 
 ## Demo
+
+https://user-images.githubusercontent.com/108847306/221579836-6439a371-a781-45bf-b5f0-19c01efef9c9.mov
+
+

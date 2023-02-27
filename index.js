@@ -26,7 +26,7 @@ const server = http.createServer((req, res) => {
   const { query, pathname } = url.parse(req.url, true);
   console.log(query);
 
-  if (pathname === '/' || pathname === '/overview') {
+  if (pathname === '/overview') {
     res.writeHead(200, { 'Content-type': 'text/html' });
     const cardsHtml = newData
       .map((product) => replaceTemplate(tempCard, product))
